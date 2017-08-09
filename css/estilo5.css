@@ -1,0 +1,23 @@
+body{
+    background-image: url(../img/fondo.png);
+    color:white;
+    background-attachment: fixed;
+}       
+section{
+    background-color: rgba(255,0,0,.5);
+    padding: 5%;
+    width: 30%;
+    height: 10%;
+    margin-top: 10%;
+    margin-left: 27%;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin-top: 5%;
+    margin-left: 45%;
+}
